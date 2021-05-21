@@ -7,6 +7,6 @@ DB in SQLSever and it´s displayed in the app
 	-DAO: this files do the querys in order to obtain all the information from the DB
 	-DTO: this files creates the LISTS that are used by the BLL files in order to display the data in the app
 
-It´s important to menction taht, the app was developed using
+It´s important to menction that, the app was developed using
 - .NET Framework 4.7.2
 - LINQ to SQL
