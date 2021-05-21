@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalTracking", "PersonalTracking\PersonalTracking.csproj", "{60733E78-E96E-41CF-996D-C0E8AC2E2AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{503DC18D-E378-486D-8106-DA6DC1C6E7F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{A5C6B0F4-A59B-4105-B0AD-A2D17D742D4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60733E78-E96E-41CF-996D-C0E8AC2E2AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60733E78-E96E-41CF-996D-C0E8AC2E2AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60733E78-E96E-41CF-996D-C0E8AC2E2AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60733E78-E96E-41CF-996D-C0E8AC2E2AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{503DC18D-E378-486D-8106-DA6DC1C6E7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503DC18D-E378-486D-8106-DA6DC1C6E7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503DC18D-E378-486D-8106-DA6DC1C6E7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503DC18D-E378-486D-8106-DA6DC1C6E7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C6B0F4-A59B-4105-B0AD-A2D17D742D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C6B0F4-A59B-4105-B0AD-A2D17D742D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C6B0F4-A59B-4105-B0AD-A2D17D742D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C6B0F4-A59B-4105-B0AD-A2D17D742D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17ADE979-2AE4-40E9-8BE8-E0C363350D9F}
+	EndGlobalSection
+EndGlobal
